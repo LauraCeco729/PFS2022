@@ -1,0 +1,11 @@
+console.log ("avazar");
+console.log ("llenar");
+console.log ("avazar");
+console.log ("avazar");
+console.log ("avazar");
+console.log ("llenar");
+console.log ("avazar");
+console.log ("eliminar");
+console.log ("avazar");
+console.log ("eliminar");
+console.log ("avanzar");

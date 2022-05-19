@@ -1,0 +1,10 @@
+console.log ("hacer lista de ingredientes");
+console.log ("comprar ingredientes");
+console.log ("pesar los ingredientes");
+console.log ("batir huevos y aceite");
+console.log ("agregar azucar y leche");
+console.log ("incorporar harina");
+console.log ("encender y precalentar horno");
+console.log ("enmantecar y enharinar molde");
+console.log ("llenar y cocinar 40 minutos en horno moderado");
+console.log ("disfrutar con mate");

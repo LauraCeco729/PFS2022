@@ -1,0 +1,10 @@
+console.log ("abrir la puerta y salir");
+console.log ("cerrar con llave");
+console.log ("subir al auto y encenderlo");
+console.log ("conducir al supermercado");
+console.log ("respetar las normas de transito");
+console.log ("llegar y no olvidarse el barbijo ");
+console.log ("realizar las compras previstas");
+console.log ("pasar por linea de caja y abonar");
+console.log ("cargar las bolsas en el baul");
+console.log ("volver a casa");
