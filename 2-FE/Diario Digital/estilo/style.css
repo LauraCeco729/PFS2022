@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+H1 {
+    color: black;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.nav-enlace {
+    display: inline-block;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover {
+    background-color: rosybrown;
+}
+
+.container-fluid {
+    background: rgb(49, 31, 151);
+    padding: 10px;
+}
+
+.header {
+    opacity: 0.5;
+    padding-bottom: 20%;
+    background-image: url(../imagen/tandil.jpg);
+    background-size: cover;
+}
+
+.carousel slide {
+    width: 640px;
+    height: 360px;
+}
