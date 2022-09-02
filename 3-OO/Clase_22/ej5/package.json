@@ -1,0 +1,11 @@
+{
+  "name": "registro_reformado",
+  "version": "1.0.0",
+  "description": "Registro automotor reformado",
+  "main": "ej5.js",
+  "scripts": {
+    "test": "tsc ej5.ts && node ej5.js"
+  },
+  "author": "laura ceco",
+  "license": "ISC"
+}

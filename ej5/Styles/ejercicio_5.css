@@ -1,0 +1,20 @@
+#formularioCompras {
+    width: 50%;
+}
+.seleccionador {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55%;
+}
+p {
+    margin: 0;
+}
+#parrafoRojo {
+    color: red;
+}
+.asientos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

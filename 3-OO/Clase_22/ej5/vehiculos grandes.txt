@@ -1,0 +1,2 @@
+Monica Simone,AC869GH,Ford,F150,2019,2,4500,255
+Juan Perez,AD234FD,Scannia,X452,2021,4,12000,0

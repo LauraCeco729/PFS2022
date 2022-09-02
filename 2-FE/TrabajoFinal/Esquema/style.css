@@ -18,20 +18,3 @@ img {
     width: 100%;
 }
 
-.btnLanzar {
-    display: inline-block;
-    background-color: salmon;
-    color: white;
-  
-}
-
-.btnLanzar:hover {
-    background-color: rosybrown;
-}
-
-.container-fluid {
-    background: rgb(49, 31, 151);
-    padding: 10px;
-}
-
-

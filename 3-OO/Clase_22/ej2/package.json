@@ -1,0 +1,11 @@
+{
+  "name": "registro_automotor",
+  "version": "1.0.0",
+  "description": "registro automotor",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc registroAutomotor.ts && node registroAutomotor.js"
+  },
+  "author": "laura ceco",
+  "license": "ISC"
+}

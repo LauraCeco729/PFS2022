@@ -1,0 +1,12 @@
+{
+  "name": "prueba_cartuchera",
+  "version": "1.0.0",
+  "description": "Prueba Cartuchera",
+  "main": "dibujando.js",
+  "scripts": {
+    "test": "tsc dibujando.ts && node dibujando.js",
+    "test1": "tsc dibujando.ts && node dibujando.js"
+  },
+  "author": "yo",
+  "license": "ISC"
+}

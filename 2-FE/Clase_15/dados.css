@@ -1,0 +1,62 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+H1 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    background-color: #612133;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.img {
+float: right;
+}
+
+.nav-enlace {
+    display: inline-block;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover {
+    background-color: rosybrown;
+}
+
+.container-fluid {
+    background: rgb(49, 31, 151);
+    padding: 10px;
+}
+
+.header {
+    opacity: 0.5;
+    padding-bottom: 20%;
+    background-image: url(../imagen/tandil.jpg);
+    background-size: cover;
+}
+
+.carousel slide {
+    width: 640px;
+    height: 360px;
+}
