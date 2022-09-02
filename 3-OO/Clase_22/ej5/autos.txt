@@ -1,0 +1,2 @@
+Pepe Gomez,AF103AB,Chevrolet,Onix,2022,16711680
+Roberto Carlos,AB485HQ,Ford,Focus,2017,65280

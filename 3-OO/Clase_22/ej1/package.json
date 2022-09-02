@@ -1,0 +1,11 @@
+{
+  "name": "manejo_archivo",
+  "version": "1.0.0",
+  "description": "manejo de archivo",
+  "main": "ej1.js",
+  "scripts": {
+    "test": "tsc ej1.ts && node ej1.js"
+  },
+  "author": "laura ceco",
+  "license": "ISC"
+}

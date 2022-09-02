@@ -1,0 +1,11 @@
+{
+  "name": "uso_telefono",
+  "version": "1.0.0",
+  "description": "uso telefono",
+  "main": "usoTelefono.js",
+  "scripts": {
+    "test": "tsc usoTelefono.ts && usoTelefono.js"
+  },
+  "author": "yo",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gestor",
+  "version": "1.0.0",
+  "description": "gestor de publicaciones",
+  "main": "ej7.js",
+  "scripts": {
+    "test": "tsc ej7.ts && node ej7.js"
+  },
+  "author": "laura",
+  "license": "ISC"
+}

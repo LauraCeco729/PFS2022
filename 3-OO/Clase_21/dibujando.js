@@ -1,0 +1,18 @@
+"use strict";
+exports.__esModule = true;
+var cartuchera_1 = require("./cartuchera");
+var lapiz_1 = require("./lapiz");
+var azul = new lapiz_1["default"]('faber', 'azul', '2B', 'si', 100);
+var negro = new lapiz_1["default"]('maped', 'negro', '3B', 'no', 200);
+var rojo = new lapiz_1["default"]('bic', 'rojo', '4B', 'si', 300);
+var miCartuchera = new cartuchera_1["default"]('Cartuchera de Laura');
+miCartuchera.createLapices(azul);
+miCartuchera.createLapices(negro);
+miCartuchera.createLapices(rojo);
+console.log(miCartuchera);
+console.log(miCartuchera.readLapicesTxt());
+miCartuchera.updateLapices(azul, 1);
+console.log(miCartuchera.readLapices());
+console.log(miCartuchera.readLapicesTxt());
+miCartuchera.deleteLapices(1);
+console.log(miCartuchera.readLapicesTxt());

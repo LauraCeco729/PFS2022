@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Venta de pasajes</title>
+</head>
+
+<body onload="onStartUp();">
+	<div>
+		<h1>Compra de Pasajes</h1>
+    </div>
+    <h7>Fila Asiento [1 al 20]</h7>
+    <div>
+        <input type="number" id="textEdit1">
+    </div>
+    <h7>Columna Asiento [1 al 3]</h7>
+    <div>
+        <input type="number" id="textEdit2"><br><br>
+    </div>
+    <div>
+        <button id="btn" ()> Comprar</button><br><br>
+    </div>
+    </div>
+    <div class="container">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <table id='myTableId'  border="1">
+            <thead>
+                <th>Asiento</th>
+                <th>Ventanilla Izquierda</th>
+                <th>Centro</th>
+                <th>Ventanilla Derecha</th>
+            </thead>
+            <tbody id="asientos"></tbody>
+        </table>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

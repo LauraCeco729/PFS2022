@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2 - Examen</title>
+</head>
+
+<body>
+    <h1 style="color:green"> Asistencias!!</h1>
+    <div class="container">
+        <p>Nombre y Apellido</p>
+        <input type="text" id="txtApellido">
+        <p>Fecha</p>
+        <input type="date" id="fecha" name="trip-start" value="2022-07-14" min="2018-01-01" max="2024-12-31">
+        <p>Seleccionar materia</p>
+        <select id="cb1">
+            <option value="mat1" selected>Materia 1</option>
+            <option value="mat2">Materia 2</option>
+            <option value="mat3">Materia 3</option>
+        </select><br><br>
+
+        <button id="btnAsistencia">Registrar Asistencia</button>
+        <button id="btnDelete">Eliminar Asistencia</button><br><br>
+        <div class="container">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+            <table id='myTableId' border="1">
+                <thead>
+                    <th>Apellido y Nombres</th>
+                    <th>Fecha</th>
+                    <th>Materia</th>
+                </thead>
+                <tbody id="asistencia"></tbody>
+            </table>
+        </div>
+    </div>
+    <script src="ejercicio2.js"></script>
+</body>
+
+</html>
